@@ -1,0 +1,28 @@
+D:\Users\20241170150045\Documents\Programas do Visual Studios\bin\Debug\net8.0\Programas do Visual Studios.exe
+D:\Users\20241170150045\Documents\Programas do Visual Studios\bin\Debug\net8.0\Programas do Visual Studios.deps.json
+D:\Users\20241170150045\Documents\Programas do Visual Studios\bin\Debug\net8.0\Programas do Visual Studios.runtimeconfig.json
+D:\Users\20241170150045\Documents\Programas do Visual Studios\bin\Debug\net8.0\Programas do Visual Studios.dll
+D:\Users\20241170150045\Documents\Programas do Visual Studios\bin\Debug\net8.0\Programas do Visual Studios.pdb
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.AssemblyInfoInputs.cache
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.AssemblyInfo.cs
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.csproj.CoreCompileInputs.cache
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.dll
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\refint\Programas do Visual Studios.dll
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.pdb
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\Programas do Visual Studios.genruntimeconfig.cache
+D:\Users\20241170150045\Documents\Programas do Visual Studios\obj\Debug\net8.0\ref\Programas do Visual Studios.dll
+D:\Users\20241170150045\Desktop\Algoritimos3\bin\Debug\net8.0\Programas do Visual Studios.exe
+D:\Users\20241170150045\Desktop\Algoritimos3\bin\Debug\net8.0\Programas do Visual Studios.deps.json
+D:\Users\20241170150045\Desktop\Algoritimos3\bin\Debug\net8.0\Programas do Visual Studios.runtimeconfig.json
+D:\Users\20241170150045\Desktop\Algoritimos3\bin\Debug\net8.0\Programas do Visual Studios.dll
+D:\Users\20241170150045\Desktop\Algoritimos3\bin\Debug\net8.0\Programas do Visual Studios.pdb
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.AssemblyInfoInputs.cache
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.AssemblyInfo.cs
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.csproj.CoreCompileInputs.cache
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.dll
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\refint\Programas do Visual Studios.dll
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.pdb
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\Programas do Visual Studios.genruntimeconfig.cache
+D:\Users\20241170150045\Desktop\Algoritimos3\obj\Debug\net8.0\ref\Programas do Visual Studios.dll
